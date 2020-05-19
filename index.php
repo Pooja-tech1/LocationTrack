@@ -38,7 +38,6 @@
         </script>
         <input type="button" onclick="return getlocation()" value="Get Current Location" />
         <div id="container"><p>Your Current Location: <span id="location"></span></p></div>
-	<div = "contanier">
 
 <h1>The input accept attribute</h1>
 
